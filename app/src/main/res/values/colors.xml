@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7bd766</color>
+    <color name="colorPrimaryDark">#3fa648</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="surface_bg">#8b671f</color>
+    <color name="river">#83edba</color>
+
+
+    <color name="surface">#daf486</color>
+    <color name="btn_bg">#ec8422</color>
+</resources>
